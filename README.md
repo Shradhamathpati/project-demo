@@ -1,4 +1,3 @@
 # project-demo
-This is sample demo
-Author
+This is sample d
 
