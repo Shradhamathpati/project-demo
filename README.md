@@ -1,2 +1,3 @@
 # project-demo
-Thi
+This is sample demo
+
